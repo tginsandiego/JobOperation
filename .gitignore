@@ -1,0 +1,32 @@
+
+Facebook Operations/FBPostToPageWithParamsOperation.m
+
+Facebook Operations/FacebookPermissionsCheckOperation.h
+
+Facebook Operations/FacebookPermissionsCheckOperation.m
+
+Facebook Operations/FBPageDataOperation.h
+
+Facebook Operations/FBPageDataOperation.m
+
+Facebook Operations/FBPostToFeedWithParamsOperation.h
+
+Facebook Operations/FBPostToFeedWithParamsOperation.m
+
+Facebook Operations/FBPostToGroupWithParamsOperation.h
+
+Facebook Operations/FBPostToGroupWithParamsOperation.m
+
+Facebook Operations/FBPostToPageWithParamsOperation.h
+
+Misc Operations/PutSpotWSOperation.h
+
+Misc Operations/PutSpotWSOperation.m
+
+Twitter Operations/TwitterPostOperation.h
+
+Twitter Operations/TwitterPostOperation.m
+
+Misc Operations/InstagramShareOperation.h
+
+Misc Operations/InstagramShareOperation.m
